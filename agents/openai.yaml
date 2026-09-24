@@ -1,0 +1,3 @@
+interface:
+  display_name: "MapGIS 转 SHP"
+  short_description: "批量转换 MapGIS 点线面矢量并核验"

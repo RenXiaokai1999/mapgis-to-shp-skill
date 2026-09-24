@@ -1,0 +1,3 @@
+"""pymapgis version information."""
+
+__version__ = "2.2.1"
